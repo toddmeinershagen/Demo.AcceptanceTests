@@ -1,10 +1,10 @@
 Demo.AcceptanceTests
 ====================
 
-Author:		Todd Meinershagen
-Date:		Friday, January 18, 2013
-Forum:		Architecture Round Table
-Title:		Bridging the Gap Between Customer and Developer
++ Author:		Todd Meinershagen
++ Date:		Friday, January 18, 2013
++ Forum:		Architecture Round Table
++ Title:		Bridging the Gap Between Customer and Developer
 
 This project shows both a manual- and framework-based approach to testing acceptance criteria at the functional level.
 
